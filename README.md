@@ -12,8 +12,6 @@ One flaw specific to LCGs is that, if used to choose points in an n-dimensional 
 As you see in the below spectral test there are plans which be unchosen and missed out.
 ![Lcg_3d](https://user-images.githubusercontent.com/13776994/58165713-94393e80-7c9d-11e9-9470-af33f3fd8cb0.gif)
 
-<img width="637" alt="Screen Shot 1398-02-22 at 16 30 50" src="https://user-images.githubusercontent.com/13776994/58165353-d746e200-7c9c-11e9-8f4d-2f5229c46f3a.png">
-
 While the Modefied LCG radnom generator method is a solution to fill this gaps and cover the hole 3-Dimentional space.
 ![ModefiedLCG](https://user-images.githubusercontent.com/13776994/58165515-2f7de400-7c9d-11e9-8007-47813f22f699.png)
 
